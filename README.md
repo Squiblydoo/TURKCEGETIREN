@@ -7,7 +7,7 @@ The game [ScourgeBringer by Flying Oak Games](https://store.steampowered.com/app
 2. Unzip.
 3. Run TURKCEGETIREN.exe and install.
 4. Launch the ScourgeBringer game.
-5. In the settings menu, select Turkish.
+5. In the settings menu, change the langauge to Turkish.
 6. Enjoy.
 
 ## Credit
