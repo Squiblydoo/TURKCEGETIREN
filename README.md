@@ -9,3 +9,6 @@ The game [ScourgeBringer by Flying Oak Games](https://store.steampowered.com/app
 4. Launch the ScourgeBringer game.
 5. In the settings menu, select Turkish.
 6. Enjoy.
+
+## Credit
+Squiblydoo tarafından yapılmıştır. Türkçe Çeviri Hugo the Waffle tarafından yapılmıştır
