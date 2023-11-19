@@ -1,14 +1,16 @@
 # TÜRKÇEGETİREN 
-TÜRKÇEGETİREN brings a Turkish translation to the game ScourgeBringer.
-The game [ScourgeBringer by Flying Oak Games](https://store.steampowered.com/app/1037020/ScourgeBringer/) is a fast-pace action roguelite.
+TürkçeGetiren, [ModBringer](https://github.com/Squiblydoo/ModBringer)'ın daha hafif bir versiyonu ve ScourgeBringer oyununa Türkçe çeviri ekleyen bir programdır.
+[Flying Oak Games tarafından ScourgeBringer](https://store.steampowered.com/app/1037020/ScourgeBringer/) yüksek tempolu bir aksiyon roguelite oyunudur.
 
-# How to use
-1. Download TÜRKÇEGETİREN from the Releases ([here](https://github.com/Squiblydoo/TURKCEGETIREN/releases/download/1.0/TURKCEGETIREN.zip)).
-2. Unzip.
-3. Run TURKCEGETIREN.exe and install.
-4. Launch the ScourgeBringer game.
-5. In the settings menu, change the langauge to Turkish.
-6. Enjoy.
+# Nasıl kullanılır
+1. TÜRKÇEGETİREN'i Releases kısmından indirin ([buradan](https://github.com/Squiblydoo/TURKCEGETIREN/releases/download/1.0/TURKCEGETIREN.zip)).
+2. Zip dosyasına sağ tıklayın, klasöre ayıklayın.
+3. TURKCEGETIREN.exe dosyasını çalıştırın.
+4. İlk önce "Kurulum veya Güncelleme" seçeneğini seçin, sonra ana menüye girip "Türkçe Yamayı Kur" seçeneğini seçin.
+5. ScourgeBringer oyununu çalıştırın.
+6. Oyunun ana menüsündeyken, "SETTINGS" seçeneğini seçin.
+7. "Language" adlı ayar muhtemelen "English" olacaktır, ayarı "Türkçe" yapın.
+8. Tadını çıkarın!
 
-## Credit
-Squiblydoo tarafından yapılmıştır. Türkçe Çeviri Hugo the Waffle tarafından yapılmıştır
+## Katkıda bulunanlar
+Squiblydoo tarafından yapılmıştır. Türkçe Çeviri Hugo the Waffle tarafından yapılmıştır.
